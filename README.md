@@ -73,6 +73,6 @@ I am passionate about building secure infrastructures and integrating security a
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benaissa.iyed16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benaissa-iyed)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/iyedben)
-[![Phone](https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white)](tel:+21651669834)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/21651669834)
 
 ⭐ Feel free to explore my repositories and give feedback!
