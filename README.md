@@ -23,7 +23,7 @@ I am passionate about building secure infrastructures and integrating security a
 
 ### 📑 **View My Resume**
 
-📥 [Download My CV (PDF)](https://github.com/iyedben/iyedben/CV_BenAissaIyed_FR.pdf)
+📥 [Download My CV (PDF)](https://github.com/iyedben/CV_BenAissaIyed_FR.pdf)
 
 ---
 
