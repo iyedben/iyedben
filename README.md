@@ -12,7 +12,7 @@ I am currently a second-year engineering student specializing in **Information S
 I hold a Bachelor's degree in **Networks and Information Systems**.
 
 I have hands-on experience in:
-- Web application penetration testing (OWASP methodology)
+- Web application penetration testing
 - DevSecOps pipelines and secure CI/CD
 - SIEM deployment and security monitoring
 - Advanced Linux system administration
