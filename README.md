@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-I am currently a second-year engineering student specializing in **Information Systems and Network Security** at Tek-up University (Tunisia).  
+I am currently a second-year engineering student specializing in **Information Systems and Network Security** at Tek-up University.  
 I hold a Bachelor's degree in **Networks and Information Systems**.
 
 I have hands-on experience in:
