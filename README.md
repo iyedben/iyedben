@@ -4,7 +4,6 @@
 
 📍 Bizerte, Tunisia  
 
-
 ---
 
 ## 🧑‍💻 About Me
@@ -22,48 +21,58 @@ I am passionate about building secure infrastructures and integrating security a
 
 ---
 
-### 📑 **View My Resume**:
+### 📑 **View My Resume**
 
 📥 [Download My CV (PDF)](https://github.com/iyedben/iyedben/CV_BenAissaIyed_FR.pdf)
 
 ---
 
-
-### 🛠️ **Tools I Use:**
+## 🛠️ **Tech Stack**
 
 ### 🔐 Cybersecurity
-- ![OWASP](https://img.shields.io/badge/OWASP-4E9BCD?logo=owasp&logoColor=white)
-- ![SIEM (Wazuh)](https://img.shields.io/badge/Wazuh-005571?logo=wazuh&logoColor=white)
-- ![Trivy](https://img.shields.io/badge/Trivy-1904DA?logo=aquasecurity&logoColor=white)
-- ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-4E9BCD?logo=owasp&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?logo=wazuh&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?logo=aquasecurity&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
+
+---
 
 ### ⚙️ DevOps & Tools
-- Jenkins, Docker, Kubernetes
-- SonarQube, Trivy
-- Git & CI/CD pipelines
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
 
 ### 🖥️ Systems & Networking
-- Linux (RHEL, Ubuntu)
-- TCP/IP, DNS, DHCP, FTP
-- Network Monitoring & Optimization
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![RedHat](https://img.shields.io/badge/RedHat-EE0000?logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-BIND9-blue)
+
+---
 
 ### 💻 Programming
-- Python
-- Bash
-- PHP (basic)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
 ### 🔎 Web Application Attack Detection System
-- Developed a Flask web application
-- Integrated **Wazuh SIEM** for real-time attack detection
-- Simulated attacks using Kali Linux
-- Implemented custom detection rules
+- Developed a Flask web application  
+- Integrated **Wazuh SIEM** for real-time attack detection  
+- Simulated attacks using Kali Linux  
+- Implemented custom detection rules  
 
 ---
-
 
 ## 🎯 Goals
 
