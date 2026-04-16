@@ -23,8 +23,8 @@ I am passionate about building secure infrastructures and integrating security a
 
 ### 📑 **View My Resume**
 
-📥 ![Download My CV (FR)](https://raw.githubusercontent.com/iyedben/iyedben/main/CV_BenAissaIyed_FR.pdf)
-📥 ![Download My CV (EN)](https://raw.githubusercontent.com/iyedben/iyedben/main/CV_BenAissaIyed_EN.pdf)
+📥 [Download My CV (FR)](https://raw.githubusercontent.com/iyedben/iyedben/main/CV_BenAissaIyed_FR.pdf)
+📥 [Download My CV (EN)](https://raw.githubusercontent.com/iyedben/iyedben/main/CV_BenAissaIyed_EN.pdf)
 ---
 ## 🛠️ **Tech Stack**
 
