@@ -71,6 +71,6 @@ I am passionate about building secure infrastructures and integrating security a
 ## 📌 Let's Connect!
 
 📧 benaissa.iyed16@gmail.com  
-![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)([LinkedIn](https://www.linkedin.com/in/benaissa-iyed))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benaissa-iyed)
 
 ⭐ Feel free to explore my repositories and give feedback!
