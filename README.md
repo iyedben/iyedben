@@ -33,8 +33,8 @@ I am passionate about building secure infrastructures and integrating security a
 
 ### 🔐 Cybersecurity
 - Web Pentesting (OWASP Top 10)
-- [SIEM (Wazuh)](https://avatars.githubusercontent.com/u/26867725?s=200&v=4)
-- [Kali Linux](https://cdn.simpleicons.org/kalilinux)
+- ![SIEM (Wazuh)](https://avatars.githubusercontent.com/u/26867725?s=200&v=4)
+- ![Kali Linux](https://cdn.simpleicons.org/kalilinux)
 - Vulnerability Assessment
 
 ### ⚙️ DevOps & Tools
