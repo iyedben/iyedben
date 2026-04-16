@@ -32,10 +32,10 @@ I am passionate about building secure infrastructures and integrating security a
 ### 🛠️ **Tools I Use:**
 
 ### 🔐 Cybersecurity
-- Web Pentesting (OWASP Top 10)
-- ![SIEM (Wazuh)](https://avatars.githubusercontent.com/u/26867725?s=200&v=4)
-- ![Kali Linux](https://cdn.simpleicons.org/kalilinux)
-- Vulnerability Assessment
+- ![OWASP](https://img.shields.io/badge/OWASP-4E9BCD?logo=owasp&logoColor=white)
+- ![SIEM (Wazuh)](https://img.shields.io/badge/Wazuh-005571?logo=wazuh&logoColor=white)
+- ![Trivy](https://img.shields.io/badge/Trivy-1904DA?logo=aquasecurity&logoColor=white)
+- ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
 
 ### ⚙️ DevOps & Tools
 - Jenkins, Docker, Kubernetes
