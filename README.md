@@ -3,8 +3,7 @@
 🎓 Cybersecurity Engineering Student | 🔐 DevSecOps Enthusiast | 🐧 Linux & Network Security Specialist  
 
 📍 Bizerte, Tunisia  
-📧 benaissa.iyed16@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/benaissa-iyed)  
+
 
 ---
 
@@ -30,12 +29,12 @@ I am passionate about building secure infrastructures and integrating security a
 ---
 
 
-## 🛠️ Technical Skills
+### 🛠️ **Tools I Use:**
 
 ### 🔐 Cybersecurity
 - Web Pentesting (OWASP Top 10)
-- SIEM (Wazuh)
-- DevSecOps Practices
+- [SIEM (Wazuh)](https://avatars.githubusercontent.com/u/26867725?s=200&v=4)
+- [Kali Linux](https://cdn.simpleicons.org/kalilinux)
 - Vulnerability Assessment
 
 ### ⚙️ DevOps & Tools
@@ -76,9 +75,7 @@ I am passionate about building secure infrastructures and integrating security a
 
 ## 📌 Let's Connect!
 
-I'm always open to:
-- Internship opportunities 
-- Collaboration on cybersecurity projects
-- Knowledge sharing
+📧 benaissa.iyed16@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/benaissa-iyed)  
 
 ⭐ Feel free to explore my repositories and give feedback!
