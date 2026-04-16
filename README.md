@@ -44,6 +44,7 @@ I am passionate about building secure infrastructures and integrating security a
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1A1918?logo=ansible&logoColor=white)
 
 ---
 
@@ -61,30 +62,15 @@ I am passionate about building secure infrastructures and integrating security a
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony&logoColor=white)
 
 ---
 
-## 🚀 Projects
-
-### 🔎 Web Application Attack Detection System
-- Developed a Flask web application  
-- Integrated **Wazuh SIEM** for real-time attack detection  
-- Simulated attacks using Kali Linux  
-- Implemented custom detection rules  
-
----
-
-## 🎯 Goals
-
-- Deepen expertise in **Cybersecurity & DevSecOps**
-- Work on real-world **security architectures**
-- Contribute to **secure and scalable systems**
-
----
 
 ## 📌 Let's Connect!
 
 📧 benaissa.iyed16@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/benaissa-iyed)  
-
+![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)
 ⭐ Feel free to explore my repositories and give feedback!
